@@ -1,0 +1,18 @@
+body {
+  background-color: #EFEFEF;
+  color: #012A3A;
+}
+
+.line {
+  background: #012A3A;
+}
+
+.dark {
+  display: none;
+}
+
+.home-btn {
+  color: #012A3A;
+  border-color: #012A3A;
+  background-color: #FFFFFF;
+}

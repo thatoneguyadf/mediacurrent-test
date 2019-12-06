@@ -1,0 +1,22 @@
+body {
+  background-color: #003954;
+  color: #FFFFFF;
+}
+
+.line {
+  background: #FFFFFF;
+}
+
+.light {
+  display: none;
+}
+
+.logo, .mode-switch-icon {
+  filter: invert(1) brightness(5) grayscale(1);
+}
+
+.home-btn {
+  color: #EFEFEF;
+  border-color: #EFEFEF;
+  background-color: #012A3A;
+}
